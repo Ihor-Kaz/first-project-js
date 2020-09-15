@@ -84,11 +84,13 @@ body {
 }
 
 .tablet-element {
-  display: none !important;
+  display: none;
+  /* !important; */
 }
 
 .desktop-element {
-  display: none !important;
+  display: none;
+  /* !important; */
 }
 
 .accent-btn {
@@ -1066,7 +1068,8 @@ body {
   }
 
   .tablet-element {
-    display: block !important;
+    display: block;
+    /* !important; */
   }
 
   .swiper-container {
@@ -1323,11 +1326,13 @@ body {
   }
 
   .tablet-element {
-    display: none !important;
+    display: none;
+    /* !important; */
   }
 
   .desktop-element {
-    display: block !important;
+    display: block;
+    /* !important; */
   }
 
   .swiper-container {
